@@ -14,6 +14,8 @@ Third-year Computer Engineering student at Instituto Superior de Engenharia de C
 Networks and Systems Administration. With a strong sense of responsibility and interest in cybersecurity, I
 am eager to learn and apply my knowledge in a professional setting through a curricular internship.
 
+<div align="center">
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arturmsfalcao&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
