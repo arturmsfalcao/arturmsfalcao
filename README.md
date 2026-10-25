@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Artur Falcão</h1>
 <h3 align="center">A student from Coimbra with an interest in cybersecurity</h3>
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
-
 ###
 
 
