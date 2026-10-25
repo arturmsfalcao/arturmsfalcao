@@ -4,7 +4,7 @@
 
 # Hey, I'm Artur Falcão!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Student%20in%20at%20in%20ISEC;Based%20in%20Coimbra)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Student%20at%20ISEC;Based%20in%20Coimbra)](https://git.io/typing-svg)
 
 </div>
 
