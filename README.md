@@ -30,7 +30,6 @@ am eager to learn and apply my knowledge in a professional setting through a cur
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arturmsfalcao/arturmsfalcao/output/github-snake-dark.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/arturmsfalcao/arturmsfalcao/output/github-snake.svg" />
 </picture>
 
 
