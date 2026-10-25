@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Artur Falcão</h1>
-<h3 align="center">A student from Coimbra with an interest in cybersecurity</h3>
+<div align="center">
 
-###
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px">
 
+# Hey, I'm Artur Falcão!
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Student;Based%20in%20Coimbra%2C%20Portugal)](https://git.io/typing-svg)
+
 </div>
 
-###
+## 🚀 About Me
+
+Third-year Computer Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in
+Networks and Systems Administration. With a strong sense of responsibility and interest in cybersecurity, I
+am eager to learn and apply my knowledge in a professional setting through a curricular internship.
+
+- 🏢 Working at **ISEC (Instituto Superior de Engenharia de Coimbra)** in **Coimbra, Portugal**
+
+## 🛠️ Tech Stack
+
+## 📊 GitHub Stats
+
+<div align="center">
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arturmsfalcao&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=arturmsfalcao&icon=0)](https://visitcount.itsvg.in)
+</div>
+
+## 🔗 Connect with me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arturmsfalcao@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/arturfalcao/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arturmsfalcao)
+
+</div>
