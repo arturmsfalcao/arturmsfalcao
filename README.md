@@ -5,10 +5,11 @@
 # Hey, I'm Artur Falcão!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Student;Based%20in%20Coimbra%2C%20Portugal)](https://git.io/typing-svg)
-  
-## 🚀 About Me
 
 </div>
+
+## 🚀 About Me
+
 <div align="center">
   
 Third-year Computer Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in
