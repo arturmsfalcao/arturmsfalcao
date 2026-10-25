@@ -8,11 +8,6 @@
 
 </div>
 
-## 🚀 About Me
-  
-Third-year Computer Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in
-Networks and Systems Administration, with a strong sense of responsibility and interest in cybersecurity.
-
 <div align="center">
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=arturmsfalcao&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
