@@ -9,8 +9,6 @@
 </div>
 
 ## 🚀 About Me
-
-<div align="center">
   
 Third-year Computer Engineering student at Instituto Superior de Engenharia de Coimbra, specializing in
 Networks and Systems Administration. With a strong sense of responsibility and interest in cybersecurity, I
